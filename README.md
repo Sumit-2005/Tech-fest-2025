@@ -18,7 +18,7 @@ Using the **Web Serial API**, our system communicates live with the Arduino boar
 
 ## 🛠️ Tech Stack  
 - **Frontend:** Three.js, HTML, CSS, JavaScript  
-- **Hardware:** Arduino Uno + IR Sensors  
+- **Hardware:** Arduino Uno + IR Sensors + Servo Motor
 - **Communication:** Web Serial API (Browser ↔ Arduino)  
 
 ---
